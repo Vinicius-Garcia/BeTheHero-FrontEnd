@@ -13,3 +13,11 @@
 
 <p>Tela de Cadastro de Novo Caso:</p>
 <img src="https://github.com/Vinicius-Garcia/BeTheHero-FrontEnd/blob/master/src/assets/cadastro_caso.PNG">
+
+
+<h3>Como testar: </h3>
+<p>Pré requisito: backend rodando.</p>
+<p>Clone o projeto</p>
+<p>Abra o terminal na pasta clonada</p>
+<p>Com o terminal aberto use o comando <strong>npm install </strong></p>
+<p>Após isso utilize <strong>npm start</strong></p>
