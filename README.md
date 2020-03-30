@@ -17,7 +17,11 @@
 
 <h3>Como testar: </h3>
 <p>Pré requisito: backend rodando.</p>
-<p>Clone o projeto</p>
-<p>Abra o terminal na pasta clonada</p>
-<p>Com o terminal aberto use o comando <strong>npm install </strong></p>
-<p>Após isso utilize <strong>npm start</strong></p>
+
+<ul>
+  <li>Clone o projeto</li>
+  <li>Abra o terminal na pasta clonada</li>
+  <li>Com o terminal aberto use o comando <strong>npm install </strong></li>
+  <li>Após isso utilize <strong>npm start</strong></li>
+</ul>
+
