@@ -16,7 +16,7 @@
 
 
 <h3>Como testar: </h3>
-<p>Pré requisito: backend rodando.</p>
+<p>Pré requisito: <a href="https://github.com/Vinicius-Garcia/BeTheHero-BackEnd">Backend</a> rodando.</p>
 
 <ul>
   <li>Clone o projeto</li>
